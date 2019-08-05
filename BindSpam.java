@@ -13,7 +13,7 @@ import java.io.*;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 
-public class PinkuBindSpam extends Application
+public class BindSpam extends Application
 {
 	File inputPath;
 	File outputPath;
